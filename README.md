@@ -16,3 +16,6 @@ How to run the tests:
 Fot headed mode run "npx playwright test --headed".
 
 For debug mode run "npx playwright test --debug".
+
+
+--- GitActions Test ---
